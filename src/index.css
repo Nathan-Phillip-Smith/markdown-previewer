@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.mark-input {
+  display: flex;
+  justify-content: center;
+}
+.input {
+  width: 400px;
+  height: 50vh;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+.output {
+  width: 400px;
+  height: 50vh;
+  background-color: #DCDCDC;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  overflow: scroll;
+}
